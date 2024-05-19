@@ -1,2 +1,1 @@
-# MyGenAI
- My Generative AI
+# My Generative AI
