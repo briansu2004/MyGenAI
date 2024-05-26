@@ -23,6 +23,7 @@
     - [Communication](#communication)
   - [6. Ethical Considerations](#6-ethical-considerations)
     - [Responsible AI](#responsible-ai)
+- [JD Example #2](#jd-example-2)
 
 ## Is LLM part of Gen AI?
 
@@ -131,3 +132,28 @@ Being a good Language Model (LLM) engineer requires a blend of technical skills,
 - **Privacy**: Ensure that your work respects user privacy and complies with relevant regulations.
 
 By following these steps and continuously striving to improve, you can become a proficient LLM engineer capable of making significant contributions to the field of NLP and machine learning.
+
+## JD Example \#2
+
+```text
+Large Language Model Developer – Immediate requirement (5+ years' experience)
+
+Technical Skill set:
+. Develop and implement LLM-based applications.
+. Fine tune and deploy large language models.
+. Work with open-source frameworks like LangChain and Llamaindex.
+. Integrate models with existing systems and API's
+. Process and manager data for training and deployment.
+. Proven experience with large language models and open-source frameworks.
+. Proficiency in python and relevant libraries (TensorFlow, Pytorch, Hugging Face, Transformers)
+. Strong knowledge of API integration (RESTful, GraphQL).
+. Experience with data processing, SQL and NoSQL databases.
+. Familiarity with deployment tools (docker, Kubernetes)
+
+If you have the required skillset and is ready to start soon, please share your resume to <teamhr@appfabs.ca> OR here
+Please note to include the position you are applying for in the subject.
+
+Appfabs.ca
+
+TeamHR - Appfabs Incorporation
+```
