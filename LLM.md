@@ -1,10 +1,6 @@
 # LLM
 
 - [Is LLM part of Gen AI?](#is-llm-part-of-gen-ai)
-- [JD Example #1](#jd-example-1)
-  - [Responsibilities](#responsibilities)
-  - [Required Education and Experience](#required-education-and-experience)
-  - [Preference will be given to candidates who in addition to required experience have](#preference-will-be-given-to-candidates-who-in-addition-to-required-experience-have)
 - [How to be a good LLM engineer?](#how-to-be-a-good-llm-engineer)
   - [1. Build a Strong Foundation](#1-build-a-strong-foundation)
     - [Educational Background](#educational-background)
@@ -23,42 +19,12 @@
     - [Communication](#communication)
   - [6. Ethical Considerations](#6-ethical-considerations)
     - [Responsible AI](#responsible-ai)
-- [JD Example #2](#jd-example-2)
 
 ## Is LLM part of Gen AI?
 
 Yes, LLM (Large Language Model) is part of Generative AI (Gen AI). Generative AI refers to a category of artificial intelligence systems designed to generate new content, such as text, images, or music, based on input data. LLMs are a specific type of AI model within this broader category, focused on generating human-like text.
 
 LLMs are trained on vast amounts of text data and can perform a wide range of language tasks, such as answering questions, translating languages, summarizing text, and creating content. Models like OpenAI's GPT-4, Google's BERT, and other similar large-scale models are examples of LLMs that fall under the umbrella of Generative AI.
-
-## JD Example \#1
-
-### Responsibilities
-
-- Architect/Enable distributed compute aligning workloads to Small/Mid/High end GPUs.
-- Leverage appropriate storage hardware and data formats to improve read/re-read efficiency.
-- Identify and remediate latency contributors esp. IO bottlenecks, Inefficient Data shuffling, under/over utilized compute.
-- Scale models by employing Distributed training using Data / Model Parallelism techniques. Parallelize inference processing to improve prediction latency.
-- Provide Subject Matter Expertise in Graph and Vector databases for a variety of use cases that include Knowledge Graphs, RAG etc.
-- Implement LLM observability and monitoring solutions.
-
-### Required Education and Experience
-
-- Degree in Computer Science or Engineering
-- Prior Experience with:
-  - Docker, Kubernetes, and containerization.
-  - Distributed systems.
-  - Databricks ML
-  - Machine Learning Engineering
-  - Cloud (Azure Preferred)
-  - Expert level – Python, SQL
-
-### Preference will be given to candidates who in addition to required experience have
-
-- Experience/Expertise with LLM Fine tuning, LLM Ops, Model Evaluation and Prompt Engineering
-- Experience (or knowledge of) Mosaic ML, Ray Framework.
-- Experience with Lang Chain or LlamaIndex
-- Experience with any vector database.
 
 ## How to be a good LLM engineer?
 
@@ -132,28 +98,3 @@ Being a good Language Model (LLM) engineer requires a blend of technical skills,
 - **Privacy**: Ensure that your work respects user privacy and complies with relevant regulations.
 
 By following these steps and continuously striving to improve, you can become a proficient LLM engineer capable of making significant contributions to the field of NLP and machine learning.
-
-## JD Example \#2
-
-```text
-Large Language Model Developer – Immediate requirement (5+ years' experience)
-
-Technical Skill set:
-. Develop and implement LLM-based applications.
-. Fine tune and deploy large language models.
-. Work with open-source frameworks like LangChain and Llamaindex.
-. Integrate models with existing systems and API's
-. Process and manager data for training and deployment.
-. Proven experience with large language models and open-source frameworks.
-. Proficiency in python and relevant libraries (TensorFlow, Pytorch, Hugging Face, Transformers)
-. Strong knowledge of API integration (RESTful, GraphQL).
-. Experience with data processing, SQL and NoSQL databases.
-. Familiarity with deployment tools (docker, Kubernetes)
-
-If you have the required skillset and is ready to start soon, please share your resume to <teamhr@appfabs.ca> OR here
-Please note to include the position you are applying for in the subject.
-
-Appfabs.ca
-
-TeamHR - Appfabs Incorporation
-```
